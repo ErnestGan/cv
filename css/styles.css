@@ -1,0 +1,15 @@
+table {
+  border-spacing: 30px;
+}
+
+hr {
+  width: 90%;
+  border-color: lightgrey;
+  border-top: 3px;
+}
+
+body {
+  background-color: white;
+  padding-left: 10%;
+  padding-right: 10%;
+}
